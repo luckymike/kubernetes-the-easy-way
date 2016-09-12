@@ -1,6 +1,6 @@
 # kubernetes-the-easy-way
 
-This repo provides an automated approach to [Kelsey Hightower's Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way). Currently, it only builds the AWS infrastructure, but I hope to expand it, and I'm very open to PRs that help :).
+This repo is based on [Kelsey Hightower's Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way). Currently, it only builds the AWS infrastructure, but I hope to expand it, and I'm very open to PRs that help :).
 
 ## Usage
 
